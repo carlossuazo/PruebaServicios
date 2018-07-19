@@ -1,0 +1,7 @@
+hn\gob\sar\jaxrs\provider\MyJacksonJsonProvider.class
+hn\gob\sar\model\Person.class
+hn\gob\sar\model\Message.class
+hn\gob\sar\jaxrs\filters\SwaggerFilter.class
+hn\gob\sar\jaxrs\resource\PersonResource.class
+hn\gob\sar\jaxrs\application\ApplicationConfig.class
+hn\gob\sar\jaxrs\resource\MessageResource.class
